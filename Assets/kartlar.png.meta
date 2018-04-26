@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: 29bac2b3871ea1240b13f6ee3e320f2c
+timeCreated: 1524747268
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: KartSinek1
+    21300002: KartSinek2
+    21300004: KartSinek3
+    21300006: KartSinek4
+    21300008: KartSinek5
+    21300010: KartSinek6
+    21300012: KartSinek7
+    21300014: KartSinek8
+    21300016: KartSinek9
+    21300018: KartSinek10
+    21300020: KartSinek11
+    21300022: KartSinek12
+    21300024: KartSinek13
+    21300026: KartMaca1
+    21300028: KartMaca2
+    21300030: KartMaca3
+    21300032: KartMaca4
+    21300034: KartMaca5
+    21300036: KartMaca6
+    21300038: KartMaca7
+    21300040: KartMaca8
+    21300042: KartMaca9
+    21300044: KartMaca10
+    21300046: KartMaca11
+    21300048: KartMaca12
+    21300050: KartMaca13
+    21300052: KartKupa1
+    21300054: KartKupa2
+    21300056: KartKupa3
+    21300058: KartKupa4
+    21300060: KartKupa5
+    21300062: KartKupa6
+    21300064: KartKupa7
+    21300066: KartKupa8
+    21300068: KartKupa9
+    21300070: KartKupa10
+    21300072: KartKupa11
+    21300074: KartKupa12
+    21300076: KartKupa13
+    21300078: kartlar_39
+    21300080: kartlar_40
+    21300082: kartlar_41
+    21300084: kartlar_42
+    21300086: kartlar_43
+    21300088: kartlar_44
+    21300090: kartlar_45
+    21300092: kartlar_46
+    21300094: kartlar_47
+    21300096: kartlar_48
+    21300098: kartlar_49
+    21300100: kartlar_50
+    21300102: kartlar_51
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KartSinek1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartSinek2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 294
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartSinek3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 294
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartSinek4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 294
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartSinek5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 294
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartSinek6
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 294
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartSinek7
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 294
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartSinek8
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 294
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartSinek9
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 294
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartSinek10
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 294
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartSinek11
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 294
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartSinek12
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 294
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartSinek13
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 294
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartMaca1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartMaca2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 196
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartMaca3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 196
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartMaca4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 196
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartMaca5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 196
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartMaca6
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 196
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartMaca7
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 196
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartMaca8
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 196
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartMaca9
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 196
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartMaca10
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 196
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartMaca11
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 196
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartMaca12
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 196
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartMaca13
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 196
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartKupa1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartKupa2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 98
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartKupa3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 98
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartKupa4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 98
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartKupa5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 98
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartKupa6
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 98
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartKupa7
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 98
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartKupa8
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 98
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartKupa9
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 98
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartKupa10
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 98
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartKupa11
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 98
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartKupa12
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 98
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KartKupa13
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 98
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kartlar_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kartlar_40
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kartlar_41
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kartlar_42
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kartlar_43
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kartlar_44
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kartlar_45
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kartlar_46
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kartlar_47
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kartlar_48
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 0
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kartlar_49
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 0
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kartlar_50
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 0
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kartlar_51
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 0
+        width: 73.07692
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
