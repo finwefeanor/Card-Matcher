@@ -140,14 +140,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6f08a0fe46fe414798d0804082f6e6c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  originalCard: {fileID: 707608910}
+  scoreLabel: {fileID: 274256618}
+  mainCard: {fileID: 707608910}
   images:
   - {fileID: 21300000, guid: 6c41444bd331f4cda89ae24a53f6b94c, type: 3}
   - {fileID: 21300000, guid: 6ef98ad9bd41747a89cbb0820d25027d, type: 3}
   - {fileID: 21300000, guid: 119b431a70f854f9da6b4ff3eb01b151, type: 3}
   - {fileID: 21300000, guid: fa91d5e761ce546d18b490df916affa0, type: 3}
   - {fileID: 21300000, guid: 59c401535957c41e7ae95ecc75d1eeba, type: 3}
-  scoreLabel: {fileID: 274256618}
 --- !u!4 &81030582
 Transform:
   m_ObjectHideFlags: 0
@@ -260,7 +260,6 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 119b431a70f854f9da6b4ff3eb01b151, type: 3}
   - {fileID: 21300000, guid: fa91d5e761ce546d18b490df916affa0, type: 3}
   - {fileID: 21300000, guid: 59c401535957c41e7ae95ecc75d1eeba, type: 3}
-  scoreLabel: {fileID: 1591283426}
 --- !u!4 &240757615
 Transform:
   m_ObjectHideFlags: 0
@@ -301,14 +300,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6f08a0fe46fe414798d0804082f6e6c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  originalCard: {fileID: 1666473105}
+  scoreLabel: {fileID: 274256618}
+  mainCard: {fileID: 1666473105}
   images:
   - {fileID: 21300000, guid: 6c41444bd331f4cda89ae24a53f6b94c, type: 3}
   - {fileID: 21300000, guid: 6ef98ad9bd41747a89cbb0820d25027d, type: 3}
   - {fileID: 21300000, guid: 119b431a70f854f9da6b4ff3eb01b151, type: 3}
   - {fileID: 21300000, guid: fa91d5e761ce546d18b490df916affa0, type: 3}
   - {fileID: 21300000, guid: 59c401535957c41e7ae95ecc75d1eeba, type: 3}
-  scoreLabel: {fileID: 274256618}
 --- !u!4 &243420223
 Transform:
   m_ObjectHideFlags: 0
